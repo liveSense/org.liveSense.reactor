@@ -24,6 +24,7 @@
 		<module>../org.livesense.jdbc.mysql</module>
 		<module>../com.google.gwt</module>
 		<module>../org.liveSense.utils</module>
+		<module>../org.liveSense.sun.misc</module>
 		<module>../org.liveSense.image.codec.jpeg</module>
 		<module>../org.liveSense.service.securityManager</module>
 		<module>../org.liveSense.scripting.jsp.taglib.json</module>
