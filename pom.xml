@@ -35,6 +35,7 @@
 		<module>../org.liveSense.service.thumbnailGenerator</module>
 		<module>../org.liveSense.service.xssRemove</module>
 		<module>../org.liveSense.sample.configurationLoad</module>		
+		<module>../org.liveSense.sample.gwt</module>		
 		<module>../org.liveSense.content.initial</module>
 		<module>../org.liveSense.webconsole.branding</module>
 		<module>../org.livesense.war</module>
