@@ -34,11 +34,11 @@
 		<module>../org.liveSense.service.languageSelector</module>
 		<module>../org.liveSense.service.thumbnailGenerator</module>
 		<module>../org.liveSense.service.xssRemove</module>
-		<module>../org.liveSense.sample.configurationLoad</module>		
-		<module>../org.liveSense.sample.gwt</module>		
+		<module>../org.liveSense.sample.configurationLoad</module>				
+		<module>../org.liveSense.sample.gwt.Notes</module>
 		<module>../org.liveSense.content.initial</module>
 		<module>../org.liveSense.webconsole.branding</module>
-		<module>../org.livesense.war</module>
+		<module>../org.livesense.launchpad</module>
 	</modules>
 
 	<dependencies>
