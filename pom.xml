@@ -12,14 +12,17 @@
 	<version>1.0.1-SNAPSHOT</version>
 	<name>liveSense Reactor build</name>
 	<modules>
-		<module>../org.liveSense.auth.ldap</module>
 		<module>../org.liveSense.parent</module>
+		<module>../org.liveSense.auth.ldap</module>
 		<module>../org.liveSense.core</module>
 		<module>../org.liveSense.misc.sun.misc</module>
 		<module>../org.liveSense.misc.configurationLoader</module>
 		<module>../org.liveSense.misc.queryBuilder</module>
+		<module>../org.liveSense.misc.javax.xml-jre-1.6</module>
+		<module>../org.liveSense.misc.gwt.jsr303</module>
 		<module>../org.liveSense.misc.i18n</module>
 		<module>../org.liveSense.misc.jsr303</module>
+		<module>../org.liveSense.misc.jcrom</module>
 		<module>../org.liveSense.misc.image.codec.jpeg</module>
 		<module>../org.liveSense.misc.javax.persistence</module>
 		<module>../org.liveSense.scripting.jsp.taglib.json</module>
@@ -27,10 +30,10 @@
 		<module>../org.liveSense.jackrabbit.server.jdbc.mysql</module>
 		<module>../org.liveSense.datasource.jdbc.mysql</module>
 		<module>../org.liveSense.datasource.jdbc.jaybird</module>
-
 		<module>../org.liveSense.servlet.gwtrpc</module>
 		<module>../org.liveSense.service.dataSourceProvider</module>
 		<module>../org.liveSense.framework.gxt</module>
+		<module>../org.liveSense.framework.cxf</module>
 		<module>../org.liveSense.service.securityManager</module>
 		<module>../org.liveSense.service.activation</module>
 		<module>../org.liveSense.service.captcha</module>
@@ -39,10 +42,8 @@
 		<module>../org.liveSense.service.thumbnailGenerator</module>
 		<module>../org.liveSense.service.xssRemove</module>
 		<module>../org.liveSense.service.report.jasper</module>
-
-		<!-- <module>../org.liveSense.service.uploadServlet</module> -->
 		<module>../org.liveSense.sample.configurationLoad</module>
-		<module>../org.liveSense.sample.gwt.Notes</module>
+		<module>../org.liveSense.sample.gwt.notes</module>
 		<module>../org.liveSense.sample.simplePortal</module>
 		<module>../org.liveSense.content.initial</module>
 		<module>../org.liveSense.webconsole.branding</module>
