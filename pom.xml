@@ -29,8 +29,8 @@
 		<module>../org.liveSense.misc.i18n</module>
 		<module>../org.liveSense.misc.jsr303</module>
 		<module>../org.liveSense.misc.jcrom</module>
-		<module>../org.liveSense.misc.log.lilithappender</module>
-		<module>../org.liveSense.misc.log.lilithappender.config.default</module>
+		<module>../org.liveSense.misc.lilith.core</module>
+		<module>../org.liveSense.misc.log.config.default</module>
 		<module>../org.liveSense.scripting.jsp.taglib.json</module>
 		<module>../org.liveSense.scripting.jsp.taglib.jstl</module>
 		<module>../org.liveSense.dbc.mysql</module>
@@ -47,8 +47,8 @@
 		<module>../org.liveSense.service.thumbnailGenerator</module>
 		<module>../org.liveSense.service.xssRemove</module>
 		<module>../org.liveSense.service.report.jasper</module>
-		<module>org.liveSense.service.solr.configurationLoader</module>
-		<module>org.liveSense.sample.configurationLoad</module>
+		<module>../org.liveSense.service.solr.configurationLoader</module>
+		<module>../org.liveSense.sample.configurationLoad</module>
         		<module>../org.liveSense.service.jcr.importexport</module>
 		<module>../org.liveSense.sample.configurationLoad</module>
 		<module>../org.liveSense.sample.gwt.notes</module>
