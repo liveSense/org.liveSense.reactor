@@ -7,7 +7,7 @@
 		<url>https://github.com/liveSense/org.liveSense.reactor</url>
 	</scm>
 	<packaging>pom</packaging>
-	<groupId>org.liveSense</groupId>
+	<groupId>com.github.livesense</groupId>
 	<artifactId>org.livesense.reactor</artifactId>
 	<version>1.0.1-SNAPSHOT</version>
 	<name>liveSense Reactor build</name>
